@@ -94,3 +94,13 @@ The main objective of this project is to analyze sales performance, evaluate pro
 <img width="1238" height="780" alt="image" src="https://github.com/user-attachments/assets/faf2b30b-003e-4582-a169-6d8dfeda8c0c" />
 
 ---
+### 🔹 Major_Project
+
+<img width="1671" height="906" alt="image" src="https://github.com/user-attachments/assets/f15e4fc9-0967-46d0-9129-dc0e8da617a6" />
+
+
+https://public.tableau.com/app/profile/ananthula.ravali/viz/Tableau_Major_Project/Dashboard1?publish=yes
+
+---
+
+
